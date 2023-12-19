@@ -1,0 +1,14 @@
+﻿  Functions.cpp
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1689,8): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1689,8): warning C4244:         with
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1689,8): warning C4244:         [
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1689,8): warning C4244:             _Elem=char
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1689,8): warning C4244:         ]
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1709,11): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1709,11): warning C4244:         with
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1709,11): warning C4244:         [
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1709,11): warning C4244:             _Elem=char
+C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\Functions.cpp(1709,11): warning C4244:         ]
+  P 1.cpp
+  Generating Code...
+  Phase 1.vcxproj -> C:\Users\Admin\OneDrive\Desktop\Management System\Management System\Phase 1\x64\Debug\Phase 1.exe

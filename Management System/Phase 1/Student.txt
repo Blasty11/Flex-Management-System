@@ -1,0 +1,3 @@
+12,dani,gujjar,CS,A,da,da,3456,male,05678,bscs,chiniot,340005
+3740,Ahmad,Raza,SE,B,Ahmad,3740,1,M,414,BS,Lahore,100
+3740,Ahmad,Raza,SE,B,Blasty,Ap,ko,kia,414,BS,Lahore,1
